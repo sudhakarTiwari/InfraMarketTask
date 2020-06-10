@@ -1,2 +1,0 @@
-# InfraMarketTask
-Created with CodeSandbox
